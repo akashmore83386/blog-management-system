@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "def9",
+      "title": "Zelite sample",
+      "content": "Sample functionality"
+    },
+    {
+      "id": "4a70",
+      "title": "Sample 2",
+      "content": "Sample 2"
+    }
+  ]
+}
